@@ -1,0 +1,108 @@
+
+.bg {
+    /* The image used */
+    background: url(cover.jpg);
+    background-size: cover;
+    height: 500px;
+    
+}
+#text-p{
+    font-family: 'Lato', sans-serif;
+}
+.header-bg{
+    color:white;
+}
+
+#text-cover{
+    color: white;
+    padding-top: 100px;
+    font-family: 'Dancing Script', cursive;
+
+}
+h3 {
+    padding-top: 30px;
+}
+hr{
+    color: #f00;
+    background-color: #f00;
+}
+#group-card{
+    color:#000;
+}
+#heading-newslatter{
+    padding-top:40px;
+}
+
+/*
+* Icon styles
+*
+* There are styles for icon and everything which are connected with it.
+*/
+
+ul.socialIcons {
+    text-align: center;
+}
+.socialIcons li {
+    background: yellow;
+    list-style: none;
+    display: inline-block;
+    border-radius: 2em;
+    overflow:hidden;
+}
+.socialIcons li a {
+    display: block;
+    padding: .5em;
+    max-width: 2.3em;
+    min-width: 2.3em;
+    height: 2.3em;
+    white-space: nowrap;
+    line-height: 1.5em;
+    transition:.5s;
+    text-decoration: none;
+    font-family: arial;
+    color: #fff;
+}
+.socialIcons li i {
+    margin-right:.5em;
+}
+.socialIcons li:hover a {
+    max-width:200px;
+    padding-right:1em;
+}
+.socialIcons .facebook {
+    background: black;
+    box-shadow: 0 0 16px black;
+}
+.socialIcons .twitter {
+    background: black;
+    box-shadow: 0 0 16px black;
+}
+.socialIcons .instagram {
+    background: black;
+    box-shadow: 0 0 16px black;
+}
+.socialIcons .pinterest {
+    background: black;
+    box-shadow: 0 0 16px black;
+}
+.socialIcons .steam {
+    background: black;
+    box-shadow: 0 0 16px black;
+}
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
